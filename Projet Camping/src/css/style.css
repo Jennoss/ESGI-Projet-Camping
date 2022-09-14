@@ -1,0 +1,97 @@
+body {
+    margin: 0!important;
+    padding: 0!important;
+}
+
+/* .radio input[type="radio"],
+.radio-inline input[type="radio"],
+.checkbox input[type="checkbox"],
+.checkbox-inline input[type="checkbox"] {
+    float: left!important;
+    margin-left: -20px!important;
+} */
+
+.infCompl {
+    border-bottom: 1px solid rgb(214, 214, 214);
+    padding: 15px;
+}
+
+.img-logement {
+    height: 200px!important;
+    object-fit: cover;
+}
+
+.bd-placeholder-img {
+    object-fit: cover!important;
+}
+
+.figureimg {
+    object-fit: cover!important;
+    height: 350px!important;
+}
+
+.sizeOf {
+    height: 150px!important;
+}
+
+.text-size {
+    font-size: 14px;
+}
+
+.infComplTitle {
+    padding: 15px;
+    border-bottom: 1px solid rgb(214, 214, 214);
+    border-top: 1px solid rgb(214, 214, 214);
+}
+
+
+
+.infComplList {
+    padding: 15px;
+    text-align: center;
+}
+
+.fa-bed {
+    color: rgb(0, 106, 0);
+}
+
+.fa-people-roof {
+    color: rgb(227, 172, 71);
+}
+
+.fa-person {
+    color: rgb(0, 0, 173);
+}
+
+.fa-maximize {
+    color: rgb(177, 0, 0);
+}
+
+
+.img-carousel {
+    height: 500px!important;
+    width: 700px!important;
+    object-fit: cover;
+}
+
+.imgimg {
+    height: 500px!important;
+    width: 700px!important;
+    object-fit: cover;
+}
+
+.tkt {
+    object-fit: cover!important;
+    width: 88px!important;
+    height: 88px!important;
+}
+
+
+.disapear {
+    display: none!important;
+}
+
+
+.star-color {
+    color: rgb(234, 180, 18)!important;
+}
